@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         int valor = 10;
+        int testeSemUso;
         System.out.println("teste");
     }
 
